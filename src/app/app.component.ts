@@ -6,6 +6,6 @@ import {LineItem} from "./core";
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  //
+  ////
   
 }
